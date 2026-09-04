@@ -28,9 +28,6 @@ A Flutter application for converting between metric and imperial units for dista
 3. Press the Convert button
 4. View the converted value
 
-## Screenshots
-
-[Add screenshot here]
 
 ## Contributing
 
